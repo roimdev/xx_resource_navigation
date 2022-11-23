@@ -8,3 +8,9 @@
 ![2](https://i.rosim.me/roim/lom/lom_02.png)
 
 [访问链接:LOM.LOL](https://lom.lol)
+
+[BT导航: LOM.LOL/BTLINK](https://lom.lol/btlink)
+
+## 2022.11.23 新增app类导航
+* 91视频、逼哩逼哩、二次元、50度灰、汤头条、蓝颜、福利姬、菠萝直播免费版
+
